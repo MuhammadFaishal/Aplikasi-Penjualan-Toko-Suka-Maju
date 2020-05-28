@@ -1,2 +1,2 @@
 # Aplikasi-Penjualan-Toko-Suka-Maju
-Tugas Akhir Rekayasa Perangkat Lunak
+TUGAS BESAR REKAYASA PERANGKAT LUNAK 2020
