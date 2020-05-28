@@ -1,2 +1,2 @@
 # Aplikasi-Penjualan-Toko-Suka-Maju
-TUGAS BESAR REKAYASA PERANGKAT LUNAK 2020
+Tugas Besar Rekayasa Perangkat Lunak 2020
